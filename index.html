@@ -101,22 +101,22 @@
                   <h6 class="fw-bold" data-aos="zoom-in" data-aos-delay="1200" data-aos-duration="900">My Skills:</h6>
                   <ul class="contact-menu">
                     <li data-aos="flip-left" data-aos-delay="1900" data-aos-duration="900">
-                      <a href="#" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="HTML5">
+                      <a href="https://html.spec.whatwg.org/multipage/" target="_blank" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="HTML5">
                         <i class="fa-brands fa-html5 fs-2" ></i>
                       </a>
                     </li>
                     <li data-aos="flip-left" data-aos-delay="2100" data-aos-duration="900">
-                      <a href="#" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="CSS">
+                      <a href="https://web.dev/learn/css" target="_blank" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="CSS">
                         <i class="fa-brands fa-css3-alt fs-2"></i>
                       </a>
                     </li>
                     <li data-aos="flip-left" data-aos-delay="2300" data-aos-duration="900">
-                      <a href="#" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="JavaScript">
+                      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target = "_blank" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="JavaScript">
                         <i class="fa-brands fa-js fs-2"></i>
                       </a>
                     </li>
                     <li data-aos="flip-left" data-aos-delay="2500" data-aos-duration="900">
-                      <a href="#" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Bootstrap 5">
+                      <a href="https://blog.getbootstrap.com/" target = "_blank" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Bootstrap 5">
                         <i class="fa-brands fa-bootstrap fs-2"></i>
                       </a>
                     </li>
