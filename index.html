@@ -46,7 +46,7 @@
             A front-end web developer
             </h1>
             <div class="col-12 d-flex justify-content-center" style="gap:20px;">
-              <a role="button" class="btn btn-outline-danger resume-btn p-3" data-aos="flip-left"  data-aos-delay="800" data-aos-duration="1000" href="./file/My_Resume.pdf" download ="Dacanay_CV">Download CV</a>
+              <a role="button" class="btn btn-outline-danger resume-btn p-3" data-aos="flip-left"  data-aos-delay="800" data-aos-duration="1000" href="./file/Resume_Dacanay.pdf" download ="Dacanay_CV">Download CV</a>
               <a role="button" class="btn btn-danger  p-3" href="#contact"  data-aos="flip-left"  data-aos-delay="1200" data-aos-duration="1000">Contact Me</a>
             </div> 
           </div>
@@ -300,7 +300,7 @@
               <h6 class="text-muted">&copy; 2023 Cedrix</h6>
             </div>
             <div class="col-4 d-flex justify-content-end">
-              <a role="button" class="btn btn-outline-danger resume-btn" href="./file/My_Resume.pdf" download ="Dacanay_CV" style="font-size: .7rem;">Download CV</a>
+              <a role="button" class="btn btn-outline-danger resume-btn" href="./file/Resume_Dacanay.pdf" download ="Dacanay_CV" style="font-size: .7rem;">Download CV</a>
             </div>
         </div>
       </div>
